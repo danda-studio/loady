@@ -1,2 +1,2 @@
-# Loady frontend
-Truck Operator Tool frontend
+# Loady Frontend
+Truck Operator Tool Frontend
